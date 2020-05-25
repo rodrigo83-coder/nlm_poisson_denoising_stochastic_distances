@@ -13,10 +13,10 @@ string_dist = {'kleibler'};
 %algorithms of this work {'kleibler';'renyi';'hellinger';'bhattacharyya'}
 
 %search folder for synograms and images
-path_sinogram = '/Users/rodrigo/Documents/MATLAB/Projeto_NLM_Rodrigo_Final/sinograma/';
+path_sinogram = '/Users/rodrigo/Documents/MATLAB/Projeto_NLM_Rodrigo_Final/';
 
 %results folder
-path_reconstruction = '/Users/rodrigo/Documents/MATLAB/Projeto_NLM_Rodrigo_Final/resultados/';
+path_reconstruction = '/Users/rodrigo/Documents/MATLAB/Projeto_NLM_Rodrigo_Final/';
 
 
 %Below are separate codes for reading results and processing images / phantoms.
